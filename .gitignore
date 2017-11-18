@@ -1,0 +1,10 @@
+.idea/
+/ShoppingBasket.iml
+/lib/
+/out/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
