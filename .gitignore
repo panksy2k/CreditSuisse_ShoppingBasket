@@ -2,6 +2,7 @@
 /ShoppingBasket.iml
 /lib/
 /out/
+/target/
 *.class
 
 # Package Files #
